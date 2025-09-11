@@ -35,7 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## Layout
 
-Você pode visualizar o layout do projeto através [DESTE LINK](https://www.figma.com/design/NqsQoy9b29S0mSFnUQxkCI/LP-de-produto--Community-?node-id=0-1&p=f&t=Rq9pC5gaHHHSjGeL-0). É necessário ter conta no [Figma](https://figma.com) para abriacessá-lo.
+Você pode visualizar o layout do projeto através [DESTE LINK](https://www.figma.com/design/NqsQoy9b29S0mSFnUQxkCI/LP-de-produto--Community-?node-id=0-1&p=f&t=Rq9pC5gaHHHSjGeL-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## Licença
 
